@@ -23,7 +23,6 @@
     "koa-morgan": "^1.0.1",
     "koa-router": "^10.0.0",
     "moment": "^2.29.1",
-    "parameter": "^3.6.0",
     "pg": "^8.5.1"
   },
   "devDependencies": {
@@ -34,8 +33,6 @@
     "@babel/preset-env": "^7.0.0",
     "@babel/register": "^7.0.0",
     "@babel/runtime-corejs2": "^7.0.0",
-    "bcrypt": "^5.0.0",
-    "jsonwebtoken": "^8.5.1",
     "nodemon": "^2.0.6"
   }
 }
