@@ -1,2 +1,0 @@
-error: napi-v3\bcrypt_lib.node 
-cmd fix : npm rebuild bcrypt --build-from-source
